@@ -1,0 +1,48 @@
+{ "projects": [
+        { 
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "Display a randomly generated quote.",
+            "technologies": ["JavaScript"],
+            "live_link": "https://bennybennardo.github.io/random-quote-generator/", 
+            "github_link": "https://github.com/bennybennardo/random-quote-generator",
+            "image_urls": ["/static/images/quote-generator-thumbnail.png", "/static/images/quote-generator-preview-1.png", "/static/images/quote-generator-preview-2.png", "/static/images/quote-generator-preview-3.png"]
+        },
+        { 
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "Displays a series of pages and a search function to sort through employee data.",
+            "technologies": ["JavaScript"],
+            "live_link": "https://bennybennardo.github.io/data-pagination-and-filtering/", 
+            "github_link": "https://github.com/bennybennardo/data-pagination-and-filtering",
+            "image_urls": ["/static/images/dpf-thumnail.png", "/static/images/dpf-preview-1.png", "/static/images/dpf-preview-2.png", "/static/images/dpf-preview-3.png"]
+        },
+        { 
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Displays an interactive registration form that validates user input and prohibits scheduling conflicts.",
+            "technologies": ["JavaScript"],
+            "live_link": "https://bennybennardo.github.io/interactive-form/", 
+            "github_link": "https://github.com/bennybennardo/interactive-form",
+            "image_urls": ["/static/images/interactive-form-thumbnail.png", "/static/images/interactive-form-preview-1.png", "/static/images/interactive-form-preview-2.png", "/static/images/interactive-form-preview-3.png"]
+        },
+        { 
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "An interactive browser-based game for guessing phrases.",
+            "technologies": ["JavaScript", "HTML"],
+            "live_link": "https://bennybennardo.github.io/OOP-Gameshow-App/", 
+            "github_link": "https://github.com/bennybennardo/OOP-Gameshow-App",
+            "image_urls": ["/static/images/oop-gameshow-thumbnail.png", "/static/images/oop-gameshow-preview-1.png", "/static/images/oop-gameshow-preview-2.png", "/static/images/oop-gameshow-preview-3.png"]
+        },
+        { 
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "Uses Random User Generator API to create a prototype for an employee directory.",
+            "technologies": ["JavaScript"],
+            "live_link": "https://bennybennardo.github.io/public-api-employee-directory/", 
+            "github_link": "https://github.com/bennybennardo/public-api-employee-directory",
+            "image_urls": ["/static/images/public-api-thumbnail.png", "/static/images/public-api-preview-1.png", "/static/images/public-api-preview-2.png", "/static/images/public-api-preview-3.png"]
+        }
+    ]
+}
