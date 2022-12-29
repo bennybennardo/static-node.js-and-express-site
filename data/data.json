@@ -15,7 +15,7 @@
             "technologies": ["JavaScript"],
             "live_link": "https://bennybennardo.github.io/data-pagination-and-filtering/", 
             "github_link": "https://github.com/bennybennardo/data-pagination-and-filtering",
-            "image_urls": ["/static/images/dpf-thumnail.png", "/static/images/dpf-preview-1.png", "/static/images/dpf-preview-2.png", "/static/images/dpf-preview-3.png"]
+            "image_urls": ["/static/images/dpf-thumbnail.png", "/static/images/dpf-preview-1.png", "/static/images/dpf-preview-2.png", "/static/images/dpf-preview-3.png"]
         },
         { 
             "id": 2,
